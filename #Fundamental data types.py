@@ -1,0 +1,10 @@
+#Fundamental data types
+print (type(2 + 4))
+print (type(3 - 5))
+print (type(4 * 7))
+print (type(2 / 8))
+print (9.9 + 1.1)
+print (2 ** 3)
+print (4 ** 7)
+print (5 // 4)
+print (7 % 4)
